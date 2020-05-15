@@ -1,0 +1,72 @@
+body{
+    line-height: 1.7;
+    color: rgb(68, 68, 68);
+    font-weight:400;
+    font-size:1rem;
+    font-family:'Sunflower', sans-serif;
+}
+
+h2{
+    margin-top:0;
+    margin-bottom:0.5rem;
+    font-family: 'Pangolin', cursive;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+
+.menu{
+    border-bottom: 1px solid grey;
+}
+
+ul{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom:0;
+    padding-inline-start:0px;
+}
+.name{
+    text-align:center;
+    font-family:'Sunflower', sans-serif;
+    font-style:italic;
+    font-size:80px;
+    color:rgb(226, 189, 189);
+}
+
+.text{
+    padding:10px;
+    border:5px rgb(190, 220, 247);
+    border-style:inset;
+    background-color:rgb(200, 226, 248);
+}
+
+.img-fluid{
+    width: 40%;
+    height:auto;
+}
+
+.uni-images{
+    text-align:right;
+}
+
+.coffee{
+    padding:10px;
+    border:5px rgb(190,220,247);
+    border-style:outset;
+    background-color:rgb(200, 226, 248);
+    text-align:right;
+}
+
+.caption{
+    text-transform:uppercase;
+    font: weight 800;
+    letter-spacing:.2em;
+    font-size:16px;
+    padding:7px;
+    display:inline-block;
+    font-family: 'Pangolin', cursive;
+    color : rgb(44, 44, 44);
+}
